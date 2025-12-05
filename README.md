@@ -1,2 +1,4 @@
 # Soil-Thermal-Regimes-
 Raw_Data
+High-Resolution Forecasting of Soil Thermal Regimes Using Different Deep Learning Frameworks under Climate Change
+Soil temperature is a critical parameter influencing ecological and hydrological processes, yet its accurate projection under climate change remains challenging due to coarse-resolution climate models and complex soil-atmosphere interactions. This study develops a deep learning framework to downscale soil temperature (5 cm depth) in western Iran, under climate change scenarios. Using an ensemble of three complementary techniques—Random Forest (Gini) importance, Permutation Importance, and SHAP (SHapley Additive exPlanations) analysis—we identified optimal predictors from the 26 available CanESM5 (CMIP6) variables. Four deep learning models—CNN, LSTM, GRU, and a hybrid CNN-LSTM—were evaluated for downscaling performance using historical data (1980–2014). 
